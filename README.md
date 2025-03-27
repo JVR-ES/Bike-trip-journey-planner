@@ -21,6 +21,7 @@ Users can lean on this application to choose a destination as well as to program
 * First step would be to set some filtering conditions that would allow to make a short list among all options available. This filtering would allow parameters to be narrowed down such as the location of the starting point, the total length of the route or the level of effort required.
 * Second step would be choosing one option among the routes available and splitting it into the desired number of stages
 * Then, a final set of options would be set according to the user’s choice, such as the start date or the means of transport.
+<img src="Summary_day_1.png" width="300">
 
 ## Challenges
 The biggest challenge is to integrate all inputs from different sources and to optimize the result so it can be bundled and offered to the user as a block. There’s a big programming work behind.
